@@ -1,0 +1,3 @@
+﻿  cw2.powtorka.cpp
+C:\Users\local\Desktop\powtorka\cw2.powtorka\cw2.powtorka\cw2.powtorka.cpp(7,5): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  cw2.powtorka.vcxproj -> C:\Users\local\Desktop\powtorka\cw2.powtorka\x64\Debug\cw2.powtorka.exe
